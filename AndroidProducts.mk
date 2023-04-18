@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bliss_sweet.mk
+    $(LOCAL_DIR)/droidx_sweet.mk
 
 COMMON_LUNCH_CHOICES := \
-    bliss_sweet-user \
-    bliss_sweet-userdebug \
-    bliss_sweet-eng
+    droidx_sweet-user \
+    droidx_sweet-userdebug \
+    droidx_sweet-eng
